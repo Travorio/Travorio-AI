@@ -163,10 +163,6 @@ The application follows a modular architecture:
    - Real-time data display with filtering options
    - Downloadable itinerary generation
 
-## Repository
-
-This code is available on GitHub at [arjunprabhulal/gemini-crewai-travelplanner](https://github.com/arjunprabhulal/gemini-crewai-travelplanner).
-
 ## Author
 
 For more articles on AI/ML and Generative AI, follow me on Medium:
